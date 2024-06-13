@@ -16,22 +16,48 @@ Top Industries: Most funded sectors.
 Scenario: Help a friend find the best location and investors for his startup.
 #### Tasks:
 Optimal Location:
+
 Evaluated Bangalore, Mumbai, and NCR.
+
 Found location with the highest number of fundings.
+
 Standardized city names.
+
+
+
 Potential Investors:
+
 Top 5 investors by number of investments.
+
 Ignored undisclosed investors.
+
+
+
 Improvised Investor List:
+
 Top 5 investors by number of different startups funded.
+
 Corrected key startup name errors.
+
 Early-Stage Investment:
+
 Focused on Seed Funding and Crowdfunding.
+
 Listed top 5 investors by number of different startups funded.
+
+
+
 Growth-Stage Investment:
+
 Focused on Private Equity.
+
 Listed top 5 investors by number of different startups funded.
+
+
+
 ## Conclusion
+
+
 Insights:
 Identified key investors, locations, and industries.
 Helped secure seed funding for the friend's startup.
