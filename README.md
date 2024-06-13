@@ -17,41 +17,41 @@ Scenario: Help a friend find the best location and investors for his startup.
 #### Tasks:
 Optimal Location:
 
-Evaluated Bangalore, Mumbai, and NCR.
+  Evaluated Bangalore, Mumbai, and NCR.
 
-Found location with the highest number of fundings.
+  Found location with the highest number of fundings.
 
-Standardized city names.
+  Standardized city names.
 
 
 
 Potential Investors:
 
-Top 5 investors by number of investments.
+  Top 5 investors by number of investments.
 
-Ignored undisclosed investors.
+  Ignored undisclosed investors.
 
 
 
 Improvised Investor List:
 
-Top 5 investors by number of different startups funded.
+  Top 5 investors by number of different startups funded.
 
-Corrected key startup name errors.
+  Corrected key startup name errors.
 
 Early-Stage Investment:
 
-Focused on Seed Funding and Crowdfunding.
+  Focused on Seed Funding and Crowdfunding.
 
-Listed top 5 investors by number of different startups funded.
+  Listed top 5 investors by number of different startups funded.
 
 
 
 Growth-Stage Investment:
 
-Focused on Private Equity.
+  Focused on Private Equity.
 
-Listed top 5 investors by number of different startups funded.
+  Listed top 5 investors by number of different startups funded.
 
 
 
